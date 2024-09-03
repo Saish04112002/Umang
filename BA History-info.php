@@ -1,0 +1,239 @@
+<!DOCTYPE php>
+<php lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+		<title>php Education Template</title>
+
+		<!-- Google font -->
+		<link href="https://fonts.googleapis.com/css?family=Lato:700%7CMontserrat:400,600" rel="stylesheet">
+
+		<!-- Bootstrap -->
+		<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css"/>
+
+		<!-- Font Awesome Icon -->
+		<link rel="stylesheet" href="css/font-awesome.min.css">
+
+		<!-- Custom stlylesheet -->
+		<link type="text/css" rel="stylesheet" href="css/style.css"/>
+
+		<!-- php5 shim and Respond.js for IE8 support of php5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/php5shiv/3.7.3/php5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+
+    </head>
+	<body>
+  <style> 
+		body{
+			color: black;
+		}
+	 </style>
+		<!-- Header -->
+		<header id="header">
+			<div class="container">
+
+				<div class="navbar-header">
+					<!-- Logo -->
+					<div class="navbar-brand">
+						<a class="logo" href="index.php">
+							<img src="./img/logo-alt.png" alt="logo">
+						</a>
+					</div>
+					<!-- /Logo -->
+
+					<!-- Mobile toggle -->
+					<button class="navbar-toggle">
+						<span></span>
+					</button>
+					<!-- /Mobile toggle -->
+				</div>
+
+				<!-- Navigation -->
+				<nav id="nav">
+					<ul class="main-menu nav navbar-nav navbar-right">
+						<li><a href="index.php">Home</a></li>
+						<li><a href="Quiz.php">Quiz</a></li>
+						<li><a href="Courses.php">Courses</a></li>
+						<li><a href="Internship.php">Internship</a></li>
+						<li><a href="contact.php">PYQ</a></li>
+					</ul>
+				</nav>
+				<!-- /Navigation -->
+
+			</div>
+		</header>
+		<!-- /Header -->
+
+    <div  id="top-shifted"  class="container-fluid">
+      <p class="text-center">BA in History</p>
+    </div>
+    
+
+    <div class="col-lg-12 col-md-12 col-xs-12">
+      <div id="text" class="container-fluid">
+        <h3 id="stream" class="text-center"><img src="img/history1.jpg" width=350px height=230px><span class="stream-name"></span></h3>
+        <p>
+           The Bachelor of Arts in History is a broad-based program that has specific goals, including engaging 
+           the mind and imagination of those who study history, introducing students to worlds, times, places, 
+           and cultures – including their own – in ways they have never before considered and promoting the 
+           acquisition of historical knowledge and critical thinking, reading, writing, and research skills. 
+           Upon successful completion of this history degree program, students should be able to 
+           demonstrate competency in the vital skills of historical explanation, discernment, and synthesis. 
+        </p>
+
+        <p>
+          The study of the past broadens our perspective and allows us to discover the essential elements of 
+          human existence. The term historian covers a broad range of career options and job settings. In 
+          general, historians study, assess, and interpret the past to determine what happened and why.
+        </p>
+         
+      </div>
+    </div>
+
+    <div class="col-lg-12 col-md-12 col-xs-12">
+      <div id="text" class="container-fluid course-content">
+        <h1 id="subheading">Eligibility Criteria</h1>
+        <p>
+            10+2 qualified students from a recognised Board and any stream who have an aggregate of 50% or 
+            more at the qualifying exam level are eligible for the B.A History programme offered at various 
+            Indian universities and colleges. Some universities, however, specifically demand the applicants 
+            to have studied History at the 10+2 level as a part of their eligibility criteria.
+        </p>
+
+        <p>
+          Given below is a list of the top colleges in India that offer a degree in BA History:
+          <ul>
+            <li><a href="https://www.mcc.edu.in/" target="_blank">Madras Christian College</a></li>
+            <li><a href="https://www.loyolacollege.edu/" target="_blank">Loyola College, Chennai</a></li>
+            <li><a href="http://www.ipcollege.ac.in/" target="_blank">Indraprastha College for Women</a></li>
+            <li><a href="http://www.dr.du.ac.in/" target="_blank">Daulat Ram College</a></li>
+            <li><a href="https://wcc.edu.in/" target="_blank">Women's Christian College</a></li>
+          </ul> 
+        </p>
+         
+        <h1 id="subheading">Course Curriculum</h1>
+        <p>
+            BA History syllabus consists of four parts for the history of India according to the different 
+            time period and then it has it encompasses the history of the world in which it has a history in 
+            Europe and many more and BA syllabus consists topic like the history of India from ancient time 
+            to 600 BC & many more about world history
+        </p>
+
+        <p>
+          Given below is the list of the areas of focus on which the subjects are decided that will be studied
+          by the students taking the course:
+          <ul>
+            <li>History of India – Ancient to 600 CE</li>
+            <li>History of India – 600C to 1500C</li>
+            <li>History of India – 1500C to 1800C</li>
+            <li>History of India – 1800C to Modern India</li>
+            <li>Ancient World History</li>
+            <li>Transformation of Europe</li>
+            <li>European History</li>
+            <li>World Politics</li>
+            <li>History of East Asia</li>
+            <li>History of the United States of America</li>
+            <li>History of the USSR</li>
+            <li>History of Africa</li>
+            <li>History of Latin America</li>
+          </ul>
+          These are the vast areas of study in which the students will be learning about detailed topics with 
+          respect to the history of ancient and modern India as well as the important historical events that have 
+          taken place all over the world.
+        </p>
+
+        <h1 id="subheading">Jobs and Recruitment</h1>
+        <p>
+          After completion of BA History jobs opportunity for the candidate is accessible in a huge number. 
+          Hence we can say BA  History scope is very massive and it encircles many job profiles like journalist 
+          and columnist editors, information research librarians etc.
+        </p>
+
+        <p>
+          The starting salary package for a BA History graduate can be said to be around an average of 3 to 7 lakhs.
+        </p>
+
+        <p>
+          Given below is a list of jobs in India that can be chosen as a career after graduating in BA History:
+          <ul>
+            <li><b>Archaeologist: </b> A history graduate can find employment with Archaeological Survey of India or with private firms related to archaeology. The average salary package is Rs 15,000 p.m.</li>
+            <li><b>Historian: </b> With so much debate over the authenticity of History books, there is an ever-increasing demand for historians.</li>
+            <li><b>Auctioneer: </b> As a student of history if Art interests you, you can work with auction houses.</li>
+            <li><b>Public Service: </b> For History graduates, the option of public service is always open.</li>
+            <li><b>Teacher: </b> After a BA in History, you can always find employment as a history teacher.</li>
+            <li><b>Executive/Associate: </b> BPOs/KPOs also hire graduates for their executive or associate profiles.</li>
+            <li><b>Social Worker: </b> NGOs and Social Welfare Organizations also employ BA History graduates.</li>
+            <li><b>Writer/Subject Matter Expert: </b> Nowadays a lot of publishing houses seek subject matter experts for publication of school textbooks or supplementary reading materials.</li>
+            <li><b>Travel and Tourism Expert: </b> With an extensive knowledge of History and Historical Monuments, a history graduate can work as a travel expert for tourist places of historical importance. A Travel expert earns an average salary of Rs 316,084 per year.</li>
+            <li><b>Archivist: </b> The job of an archivist is to evaluate, collect and preserve useful records making it a perfect job for a history graduate.</li>
+          </ul>
+        </p>
+
+      </div>
+
+      <!-- Footer -->
+		<footer id="footer" class="section">
+
+			<!-- container -->
+			<div class="container">
+
+				<!-- row -->
+				<div class="row">
+
+					<!-- footer logo -->
+					<div class="col-md-6">
+						<div class="footer-logo">
+							<a class="logo" href="index.php">
+								<img src="./img/logo.png" alt="logo">
+							</a>
+						</div>
+					</div>
+					<!-- footer logo -->
+
+					<!-- footer nav -->
+					<div class="col-md-6">
+						<ul class="footer-nav">
+							<li><a href="index.php">Home</a></li>
+							<li><a href="Quiz.php">Quiz</a></li>
+							<li><a href="Courses.php">Courses</a></li>
+							<li><a href="Internship.php">Internship</a></li>
+							<li><a href="contact.php">PYQ</a></li>
+						</ul>
+					</div>
+					<!-- /footer nav -->
+
+				</div>
+				<!-- /row -->
+
+				<!-- row -->
+				<div id="bottom-footer" class="row">
+
+					
+				
+				</div>
+				<!-- row -->
+
+			</div>
+			<!-- /container -->
+
+		</footer>
+		<!-- /Footer -->
+
+		<!-- preloader -->
+		<div id='preloader'><div class='preloader'></div></div>
+		<!-- /preloader -->
+
+
+		<!-- jQuery Plugins -->
+		<script type="text/javascript" src="js/jquery.min.js"></script>
+		<script type="text/javascript" src="js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="js/main.js"></script>
+
+	</body>
+</php>

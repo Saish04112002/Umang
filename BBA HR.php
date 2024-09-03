@@ -1,0 +1,186 @@
+<!DOCTYPE php>
+<php lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+		<title>php Education Template</title>
+
+		<!-- Google font -->
+		<link href="https://fonts.googleapis.com/css?family=Lato:700%7CMontserrat:400,600" rel="stylesheet">
+
+		<!-- Bootstrap -->
+		<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css"/>
+
+		<!-- Font Awesome Icon -->
+		<link rel="stylesheet" href="css/font-awesome.min.css">
+
+		<!-- Custom stlylesheet -->
+		<link type="text/css" rel="stylesheet" href="css/style.css"/>
+
+		<!-- php5 shim and Respond.js for IE8 support of php5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/php5shiv/3.7.3/php5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+
+    </head>
+	<body>
+  <style> 
+		body{
+			color: black;
+		}
+	 </style>
+		<!-- Header -->
+		<header id="header">
+			<div class="container">
+
+				<div class="navbar-header">
+					<!-- Logo -->
+					<div class="navbar-brand">
+						<a class="logo" href="index.php">
+							<img src="./img/logo-alt.png" alt="logo">
+						</a>
+					</div>
+					<!-- /Logo -->
+
+					<!-- Mobile toggle -->
+					<button class="navbar-toggle">
+						<span></span>
+					</button>
+					<!-- /Mobile toggle -->
+				</div>
+
+				<!-- Navigation -->
+				<nav id="nav">
+					<ul class="main-menu nav navbar-nav navbar-right">
+						<li><a href="index.php">Home</a></li>
+						<li><a href="Quiz.php">Quiz</a></li>
+						<li><a href="Courses.php">Courses</a></li>
+						<li><a href="Internship.php">Internship</a></li>
+						<li><a href="contact.php">PYQ</a></li>
+					</ul>
+				</nav>
+				<!-- /Navigation -->
+
+			</div>
+		</header>
+		<!-- /Header -->
+    <div  id="top-shifted"  class="container-fluid">
+      <p class="text-center">Bachelors in Business Administration</p>
+    </div>
+    
+
+    <div class="col-lg-12 col-md-12 col-xs-12">
+      <div id="text" class="container-fluid">
+        <h3 id="stream" class="text-center"><img src="img/HR.jpg" height=250px><span class="stream-name"><br>BBA HR</span></h3>
+        <p>
+          B.B.A. HR or Bachelor of Business Administration in Human Resources is a three-year undergraduate 
+          program in financial management.
+        </p>
+         
+      </div>
+    </div>
+
+    <div class="col-lg-12 col-md-12 col-xs-12">
+      <div id="text" class="container-fluid course-content">
+        <h1 id="subheading">About this Course</h1>
+        <p>
+           The course provides students with knowledge of the values needed when managing a business or any 
+           institution's human resources. HR management is responsible for supplying the organisation with 
+           sufficient resources to attain its goals.
+        </p>
+         
+        <h1 id="subheading">Top 5 Colleges in this Field</h1>
+        <p>
+            <ul>
+<li><a href="https://www.flame.edu.in/" target="_blank">Flame University, Pune</a></li>
+<li><a href="https://adtu.in/" target="_blank">Assam Down Town University, Guwahati</a></li>
+<li><a href="https://www.isme.in/" target="_blank">International School of Management Excellence, Bangalore</a></li>
+<li><a href="https://www.alliance.edu.in/" target="_blank">Alliance School of Business, Bangalore</a></li>
+<li><a href="https://prestigegwl.org/" target="_blank">Prestige Institute of Management, Gwalior</a></li>
+</ul>
+        </p>
+<h1 id="subheading">Subjects</h1>
+        <p>
+            The curriculum of BBA in finance will cover many important topics such as Mathematics, Economics, 
+            International Business, Financial Theory, Accounting, Banking, Corporate Finance and Fund 
+            Management. Besides this, the program also offers practical training to the students so that they 
+            don’t have to take help from any gadget or instrument again and again. Students are also taught 
+            about the investments, portfolio management, corporate finance, financial engineering and 
+            international finance.
+        </p>
+<h1 id="subheading">Jobs and Recruitments</h1>
+        <p>
+           Those who complete this course successfully can work as HR Manager, HR Coordinator, Talent 
+           Acquisition Manager, IT Recruiter, Admin Executive, etc. Opportunities are there in every company 
+           in the corporate world. Some of the top recruiters are KPMG, TCS, Wipro Limited, Pine Labs, 
+           Deloitte, McKinsey & Company, Capgemini, etc.<br>
+            The average starting salary is INR 3-5 lakhs.
+
+        </p>
+
+      </div>
+<!-- Footer -->
+<footer id="footer" class="section">
+
+  <!-- container -->
+  <div class="container">
+
+    <!-- row -->
+    <div class="row">
+
+      <!-- footer logo -->
+      <div class="col-md-6">
+        <div class="footer-logo">
+          <a class="logo" href="index.php">
+            <img src="./img/logo.png" alt="logo">
+          </a>
+        </div>
+      </div>
+      <!-- footer logo -->
+
+      <!-- footer nav -->
+      <div class="col-md-6">
+        <ul class="footer-nav">
+          <li><a href="index.php">Home</a></li>
+          <li><a href="Quiz.php">Quiz</a></li>
+          <li><a href="Courses.php">Courses</a></li>
+          <li><a href="Internship.php">Internship</a></li>
+          <li><a href="contact.php">PYQ</a></li>
+        </ul>
+      </div>
+      <!-- /footer nav -->
+
+    </div>
+    <!-- /row -->
+
+    <!-- row -->
+    <div id="bottom-footer" class="row">
+
+      
+    
+    </div>
+    <!-- row -->
+
+  </div>
+  <!-- /container -->
+
+</footer>
+<!-- /Footer -->
+
+<!-- preloader -->
+<div id='preloader'><div class='preloader'></div></div>
+<!-- /preloader -->
+
+
+<!-- jQuery Plugins -->
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/main.js"></script>
+
+</body>
+</php>

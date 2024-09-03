@@ -1,0 +1,190 @@
+<!DOCTYPE php>
+<php lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+		<title>php Education Template</title>
+
+		<!-- Google font -->
+		<link href="https://fonts.googleapis.com/css?family=Lato:700%7CMontserrat:400,600" rel="stylesheet">
+
+		<!-- Bootstrap -->
+		<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css"/>
+
+		<!-- Font Awesome Icon -->
+		<link rel="stylesheet" href="css/font-awesome.min.css">
+
+		<!-- Custom stlylesheet -->
+		<link type="text/css" rel="stylesheet" href="css/style.css"/>
+
+		<!-- php5 shim and Respond.js for IE8 support of php5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/php5shiv/3.7.3/php5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+
+    </head>
+	<body>
+	<style> 
+		body{
+			color: black;
+		}
+	 </style>
+		<!-- Header -->
+		<header id="header">
+			<div class="container">
+
+				<div class="navbar-header">
+					<!-- Logo -->
+					<div class="navbar-brand">
+						<a class="logo" href="index.php">
+							<img src="./img/logo-alt.png" alt="logo">
+						</a>
+					</div>
+					<!-- /Logo -->
+
+					<!-- Mobile toggle -->
+					<button class="navbar-toggle">
+						<span></span>
+					</button>
+					<!-- /Mobile toggle -->
+				</div>
+
+				<!-- Navigation -->
+				<nav id="nav">
+					<ul class="main-menu nav navbar-nav navbar-right">
+						<li><a href="index.php">Home</a></li>
+						<li><a href="Quiz.php">Quiz</a></li>
+						<li><a href="Courses.php">Courses</a></li>
+						<li><a href="Internship.php">Internship</a></li>
+						<li><a href="contact.php">PYQ</a></li>
+					</ul>
+				</nav>
+				<!-- /Navigation -->
+
+			</div>
+		</header>
+		<!-- /Header -->
+
+    <div  id="top-shifted"  class="container-fluid">
+      <p class="text-center">Bachelors of Commerce</p>
+    </div>
+    
+
+    <div class="col-lg-12 col-md-12 col-xs-12">
+      <div id="text" class="container-fluid">
+        <h3 id="stream" class="text-center"><img src="img/CA.jpg" width=400px><span class="stream-name"><br>BCom CA</span></h3>
+        <p>
+         In order to prepare the student for the successful completion of the BCom degree, the goal of the 
+         programme is to incorporate additional academic support and skills development with conventional 
+         courses. Chartered Accountants work in all fields of business and finance, including audit, taxation, 
+         financial and general management. Some are engaged in public practice work, others work in the private 
+         sector and some are employed by government bodies.
+        </p>
+         
+      </div>
+    </div>
+
+    <div class="col-lg-12 col-md-12 col-xs-12">
+      <div id="text" class="container-fluid course-content">
+        <h1 id="subheading">About this Course</h1>
+        <p>
+           Marketing careers include personal sales in retail and commercial environments, new product planning 
+           for major marketers, consulting organisations, and advertising agencies in manufacturing firms and 
+           service providers, and marketing research. Marketing specialisation courses concentrate on 
+           particular marketing subjects, such as marketing analysis, advertisement, personal sales and 
+           delivery across networks. Students who have successfully completed the programme for this major 
+           would have gained expertise in the application of marketing theory and have achieved maturity in 
+           analytical reasoning, quantitative research, and oral and written communication objectives for 
+           general education.
+        </p>
+         
+        <h1 id="subheading">Top 5 Colleges in this Field</h1>
+        <p>
+            <ul>
+<li><a href="https://www.loyolacollege.edu/" target="_blank">Loyola College, Chennai</a></li>
+<li><a href="https://saintgits.org/college-of-applied-sciences/" target="_blank">St. Gits College of Applied Sciences, Kottayam</a></li>
+<li><a href="http://www.velsuniv.ac.in/" target="_blank">VELS, Chennai</a></li>
+<li><a href="http://www.iimchyderabad.com/" target="_blank">IIMC, Hyderabad</a></li>
+<li><a href="https://www.jainuniversity.ac.in/" target="_blank">Jain University, Bangalore</a></li>
+</ul>
+        </p>
+<h1 id="subheading">Subjects</h1>
+        <p>
+            The subjects in CA are mainly Law, Audit Taxation, Finance Management, IT, Strategic Management, 
+            Accountancy, Economics.
+        </p>
+<h1 id="subheading">Jobs and Recruitments</h1>
+        <p>
+            The industries in which a BCom graduate can work are Information Technology, BPO, Financial 
+            Services, Manufacturing, Banking, Consulting, etc.<br>
+The average salary of a BCom graduate is INR 4.44 to 7 lakh. 
+        </p>
+
+      </div>
+
+     <!-- Footer -->
+		<footer id="footer" class="section">
+
+			<!-- container -->
+			<div class="container">
+
+				<!-- row -->
+				<div class="row">
+
+					<!-- footer logo -->
+					<div class="col-md-6">
+						<div class="footer-logo">
+							<a class="logo" href="index.php">
+								<img src="./img/logo.png" alt="logo">
+							</a>
+						</div>
+					</div>
+					<!-- footer logo -->
+
+					<!-- footer nav -->
+					<div class="col-md-6">
+						<ul class="footer-nav">
+							<li><a href="index.php">Home</a></li>
+							<li><a href="#">Quiz</a></li>
+							<li><a href="Courses.php">Courses</a></li>
+							<li><a href="Internship.php">Internship</a></li>
+							<li><a href="contact.php">PYQ</a></li>
+						</ul>
+					</div>
+					<!-- /footer nav -->
+
+				</div>
+				<!-- /row -->
+
+				<!-- row -->
+				<div id="bottom-footer" class="row">
+
+					
+
+				
+				</div>
+				<!-- row -->
+
+			</div>
+			<!-- /container -->
+
+		</footer>
+		<!-- /Footer -->
+
+		<!-- preloader -->
+		<div id='preloader'><div class='preloader'></div></div>
+		<!-- /preloader -->
+
+
+		<!-- jQuery Plugins -->
+		<script type="text/javascript" src="js/jquery.min.js"></script>
+		<script type="text/javascript" src="js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="js/main.js"></script>
+
+	</body>
+</php>

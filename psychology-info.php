@@ -1,0 +1,258 @@
+<!DOCTYPE php>
+<php lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+		<title>php Education Template</title>
+
+		<!-- Google font -->
+		<link href="https://fonts.googleapis.com/css?family=Lato:700%7CMontserrat:400,600" rel="stylesheet">
+
+		<!-- Bootstrap -->
+		<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css"/>
+
+		<!-- Font Awesome Icon -->
+		<link rel="stylesheet" href="css/font-awesome.min.css">
+
+		<!-- Custom stlylesheet -->
+		<link type="text/css" rel="stylesheet" href="css/style.css"/>
+
+		<!-- php5 shim and Respond.js for IE8 support of php5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/php5shiv/3.7.3/php5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+
+    </head>
+	<body>
+  <style> 
+		body{
+			color: black;
+		}
+	 </style>
+
+		<!-- Header -->
+		<header id="header">
+			<div class="container">
+
+				<div class="navbar-header">
+					<!-- Logo -->
+					<div class="navbar-brand">
+						<a class="logo" href="index.php">
+							<img src="./img/logo-alt.png" alt="logo">
+						</a>
+					</div>
+					<!-- /Logo -->
+
+					<!-- Mobile toggle -->
+					<button class="navbar-toggle">
+						<span></span>
+					</button>
+					<!-- /Mobile toggle -->
+				</div>
+
+				<!-- Navigation -->
+				<nav id="nav">
+					<ul class="main-menu nav navbar-nav navbar-right">
+						<li><a href="index.php">Home</a></li>
+						<li><a href="Quiz.php">Quiz</a></li>
+						<li><a href="Courses.php">Courses</a></li>
+						<li><a href="Internship.php">Internship</a></li>
+						<li><a href="contact.php">PYQ</a></li>
+					</ul>
+				</nav>
+				<!-- /Navigation -->
+
+			</div>
+		</header>
+		<!-- /Header -->
+
+    <div  id="top-shifted"  class="container-fluid">
+      <p class="text-center">BA in Psychology</p>
+    </div>
+    
+
+    <div class="col-lg-12 col-md-12 col-xs-12">
+      <div id="text" class="container-fluid">
+        <h3 id="stream" class="text-center"><img src="img/psychology.png" width="350px"><span class="stream-name"></span></h3>
+        <p>
+           Psychology, in simple terms, is the study of human mind and human behavior. A student of psychology 
+           has to study how a human mind works in different situations, how it develops perception, what are 
+           the various circumstances and how they affect the development of human behavior.
+        </p>
+
+        <p>
+           Although psychology is introduced at school level in India, it is only at the college level when one 
+           learns the basic theories and applications related to Psychology and Psychoanalysis. Psychology 
+           courses at the undergraduate level are generally application based and prepare students for entry 
+           level jobs in related fields.
+        </p>
+
+        <p>
+           BA Psychology is ideal for students who have a leaning towards Arts and Social Sciences and are 
+           willing to take up an in-depth study of psychology.
+        </p>
+         
+      </div>
+    </div>
+
+    <div class="col-lg-12 col-md-12 col-xs-12">
+      <div id="text" class="container-fluid course-content">
+        <h1 id="subheading">Eligibility Criteria</h1>
+        <p>
+            Candidates should have studied class 12th or equivalent education from state/national education 
+            board in India. Candidates from all streams i.e. Arts, Science or Commerce are eligible for 
+            admission to Psychology courses. Moreover, candidates who have completed their class 12th 
+            qualifying education from any open school board like NIOS are also eligible. Colleges/Institutes 
+            for psychology courses may mention additional eligibility criteria at the time of admission.
+        </p>
+
+        <p>
+          Given below is a list of some entrance exams that are held by colleges and universities for their 
+          admissions in BA Psychology:
+          <ul>
+            <li>Manipal Univesity Online Entrance Test (MU-OET)</li>
+            <li>Delhi University Entrance Test (DUET)</li>
+            <li>JMI Entrance Exam</li>
+            <li>Central University Common Entrance Test (CUCET)</li>
+          </ul>
+        </p>
+
+        <p>
+          Given below is a list of some of the top colleges in India that offer an undergraduate degree in 
+          BA Psychology:
+          <ul>
+            <li><a href="https://lsr.edu.in/" target="_blank">Lady Shri Ram College for Women</a></li>
+            <li><a href="https://gargicollege.in/" target="_blank">Gargi College, New Delhi</a></li>
+            <li><a href="https://www.fergusson.edu/" target="_blank">Fergusson College</a></li>
+            <li><a href="http://www.ipcollege.ac.in/" target="_blank">Indraprastha College for Women</a></li>
+            <li><a href="https://www.knc.edu.in/index.php" target="_blank">Kamala Nehru College</a></li>
+          </ul>
+        </p>
+         
+        <h1 id="subheading">Course Curriculum</h1>
+        <p>
+            To pursue a course in psychology, candidates must know that there are different types of psychology 
+            courses. There are several options which a candidate can take up as a profession and other than the 
+            different types of programmes which offer psychology courses, there are various specialities which 
+            students can take up in the field of psychology. Some of the most opted psychology courses are as 
+            follows:
+            <ul>
+              <li>Clinical Psychology</li>
+              <li>Educational Psychology</li>
+              <li>Social Psychology</li>
+              <li>Counselling Psychology</li>
+              <li>Developmental Psychology</li>
+              <li>Health Psychology</li>
+            </ul>
+        </p>
+
+        <h1 id="subheading">Jobs and Recruitment</h1>
+        <p>
+            The graduates of this course get various opportunities to work in many different fields in both the 
+            private sector and the government sector. They get work in departments like hospitals, educational 
+            institutes, corporate organizations, etc. Some of the profiles which are open for them are Social 
+            Worker, Sales Representative, Recruiters, Teachers, etc.
+        </p>
+            Given below is a list of jobs that are suitable for BA Psychology graduates:
+            <ul>
+              <li>Career Employment Specialist</li>
+              <li>Developmental Psychologist</li>
+              <li>Career Counsellor</li>
+              <li>Day-care Centre Supervisor</li>
+              <li>Child Support Specialist</li>
+              <li>Forensic Psychologist</li>
+              <li>Clinical Psychologist</li>
+              <li>Human Resources Assistant</li>
+              <li>Community Relations Officer</li>
+              <li>Health Educator</li>
+              <li>Social Worker</li>
+              <li>Industrial-Organization Psychologist</li>
+              <li>Counselling Psychologist</li>
+              <li>Psychiatric Assistant</li>
+              <li>Social Psychologist</li>
+            </ul>
+        <p>
+            The average starting salary that any newly graduated BA Psychology student can get is around 
+            3 to 4.5 lakhs per year.
+        </p>
+
+        <p>
+            For students who wish to pursue further studies after BA Psychology, multiple options are available 
+            in India. They can opt for an MA course in Psychology and its allied branches from any of the 
+            Universities offering Postgraduate courses in psychology.
+        </p>
+
+        <p>
+            Since BA Psychology also deals with understanding the personality, skills, and potential of 
+            individuals, it prepares for an ideal ground for an MBA in Human Resources Management.MBA in 
+            Human Resource Management is offered at all leading B-Schools in India.
+        </p>
+
+      </div>
+
+     <!-- Footer -->
+		<footer id="footer" class="section">
+
+			<!-- container -->
+			<div class="container">
+
+				<!-- row -->
+				<div class="row">
+
+					<!-- footer logo -->
+					<div class="col-md-6">
+						<div class="footer-logo">
+							<a class="logo" href="index.php">
+								<img src="./img/logo.png" alt="logo">
+							</a>
+						</div>
+					</div>
+					<!-- footer logo -->
+
+					<!-- footer nav -->
+					<div class="col-md-6">
+						<ul class="footer-nav">
+							<li><a href="index.php">Home</a></li>
+							<li><a href="Quiz.php">Quiz</a></li>
+							<li><a href="Courses.php">Courses</a></li>
+							<li><a href="Internship.php">Internship</a></li>
+							<li><a href="contact.php">PYQ</a></li>
+						</ul>
+					</div>
+					<!-- /footer nav -->
+
+				</div>
+				<!-- /row -->
+
+				<!-- row -->
+				<div id="bottom-footer" class="row">
+
+				
+
+				
+				</div>
+				<!-- row -->
+
+			</div>
+			<!-- /container -->
+
+		</footer>
+		<!-- /Footer -->
+
+		<!-- preloader -->
+		<div id='preloader'><div class='preloader'></div></div>
+		<!-- /preloader -->
+
+
+		<!-- jQuery Plugins -->
+		<script type="text/javascript" src="js/jquery.min.js"></script>
+		<script type="text/javascript" src="js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="js/main.js"></script>
+
+	</body>
+</php>
